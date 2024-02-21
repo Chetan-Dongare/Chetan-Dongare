@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://chetan-v1.netlify.app/](https://chetan-v1.netlify.app/)
+- 👨‍💻 All of my projects are available at [Here](https://chetan-v1.netlify.app/)
 
-- 📫 How to reach me **iamchetandongare@gmail.com**
+- 📫 You can reach me at **iamchetandongare@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15cxa7HEChWxe0hi7yDMgMInTd6FL_p5i/view?usp=sharing](https://drive.google.com/file/d/15cxa7HEChWxe0hi7yDMgMInTd6FL_p5i/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/15cxa7HEChWxe0hi7yDMgMInTd6FL_p5i/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
